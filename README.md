@@ -1,1 +1,1 @@
-# solardetector
+# SolarDetector
